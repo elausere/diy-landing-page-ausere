@@ -41,9 +41,9 @@ a{
     padding: 15px 0;
 
     color: #fff;
-    background-color: #BC9047;
+    background-color: #d79728;
 
-    border: 3px solid #BC9047;
+    border: 3px solid #d79728;
     border-radius: 5px;
 
     text-align: center;
@@ -52,6 +52,6 @@ a{
 }
 
 a:hover{
-    color: #BC9047;
+    color: #d79728;
     background-color: #ffe0ac;
 }

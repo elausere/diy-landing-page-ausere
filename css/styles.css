@@ -1,4 +1,4 @@
-@import url('sharpie.css');
+@import url('pally.css');
 
 /* My Styles */
 
@@ -7,7 +7,7 @@ img{
 }
  
 body{
-    font-family: 'Sharpie-Regular';
+    font-family: 'Pally-Medium';
 
     display: grid;
     justify-content: center;

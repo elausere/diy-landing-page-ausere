@@ -21,7 +21,12 @@ body{
     align-content: center;
     text-align: center;
     height: 100vh;
-    background-color: black;
+    background-color: #031500;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
 
 p{
@@ -34,7 +39,7 @@ a{
     width: 100%;
     margin: 0 auto 10px;
     color: #fff;
-    border: 2px solid #BC9047;
+    border: 3px solid #BC9047;
     border-radius: 3px;
     background-color: #BC9047;
     text-align: center;
